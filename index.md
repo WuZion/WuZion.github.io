@@ -1,5 +1,3 @@
-![center-aligned-image](/images/bios-long.png){: .align-center}
-
 ---
 title: "Empowering Future Networks"
 layout: home
@@ -8,10 +6,12 @@ show_excerpts: true
 entries_layout: list
 ---
 
-![center-aligned-image](/images/banner.png){: .align-center}
+![center-aligned-image](/images/bios-long.png){: .align-center}
 
 ### 研究方向
 > 强化学习、信息论、智能通信、智能系统
+![center-aligned-image](/images/banner.png){: .align-center}
+
 
 ### 主要研究工具 Highlighted Methodologies:
 > - 强化学习 Reinforcement Learning
