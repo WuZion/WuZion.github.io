@@ -2,6 +2,7 @@
 
 ### 研究方向
 > 强化学习、信息论、智能通信、智能系统
+
 ![center-aligned-image](/images/banner.png){: .align-center}
 
 
