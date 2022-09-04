@@ -1,3 +1,5 @@
+![center-aligned-image](/images/bios.png){: .align-center}
+
 ---
 title: "Empowering Future Networks"
 layout: home
