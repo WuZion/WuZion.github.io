@@ -1,7 +1,6 @@
 ![center-aligned-image](/images/bios-long.png){: .align-center}
 
-### <center>研究方向</center>
-> 强化学习、信息论、智能通信、智能系统
+### <center>研究方向: 强化学习、信息论、智能通信、智能系统</center> 
 
 ![center-aligned-image](/images/banner.png){: .align-center}
 
