@@ -1,4 +1,4 @@
-![center-aligned-image](/images/bios.png){: .align-center}
+![center-aligned-image](/images/bios-long.png){: .align-center}
 
 ---
 title: "Empowering Future Networks"
