@@ -1,6 +1,6 @@
 title = "chringel - Privacy focused theme for Hugo"
 languageCode = "en-us"
-baseurl = "https://wuzion.github.io"
+baseurl = "https://chringel21.github.io/chringel-hugo-theme"
 theme = "chringel-hugo-theme"
 themesDir = "../.."
 
@@ -19,7 +19,7 @@ CanonifyURLs = true
     description = "A privacy focused theme for Hugo"
 
     github_user = "chringel21"
-    github_repo = "https://wuzion.github.io"
+    github_repo = "https://github.com/chringel21/chringel-hugo-theme"
     github_banner = true
 
     favicon = "favicon.ico"
