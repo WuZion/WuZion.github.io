@@ -22,7 +22,7 @@ title: "吴子扬  Wu Zi-Yang"
 description: "Department of Artificial Intelligence, Northeastern University, China"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/images/Zi-Yang Wu.png"
+logo: "/images/ZiYangWu.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
