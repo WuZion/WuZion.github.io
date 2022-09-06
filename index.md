@@ -5,20 +5,20 @@
 ![center-aligned-image](/images/banner.png){: .align-center}
 
 
-### 主要研究工具 Highlighted Methodologies:
+### <center>主要研究工具 Highlighted Methodologies:</center> 
 > - 强化学习 Reinforcement Learning
 > - 概率生成模型 Probabilistic Generative Model
 > - 物理引擎与射线追踪 Physical Engine and Ray-Tracing in Computational Graphics
 > - 电路、反馈以及系统 Circuits, Feedbacks and Systems
 
-### 目前关注领域 Fields of Current Interest:
+### <center>目前关注领域 Fields of Current Interest:</center> 
 > - 语义通信 Semantic Communications 
 > - 单比特通信系统 1-bit-ADC/DAC Communication Systems
 > - 智能信道 Smart Wireless Channel and Intelligent Wireless Environment
 > - 下一代无线异构网络 Heterogeneous Networks via B5G/6G Wireless Mediums
 > - Neuromorphic EDA
 
-### 代表性研究工作 Featured Researches:
+### <center>代表性研究工作 Featured Researches:</center> 
 > 移动性与移动信道数据 Mobility and Mobile Channel Data 
   - [Channel Characterization and Realization of Mobile Optical Wireless Communications](https://ieeexplore.ieee.org/abstract/document/9140033) by Zi-Yang Wu, Muhammad Ismail, Justin Kong, Erchin Serpedin and Jiao Wang, in _IEEE Transactions on Communications_, 2020.
 
