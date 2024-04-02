@@ -1,9 +1,9 @@
-![center-aligned-image](/images/bios-1.png){: .align-center}
+Dr. Zi-Yang Wu
+Distinguished Associate Researcher at Northeastern University, China.
+吴子扬
+东北大学特聘副研究员，硕士生导师
 
 ### <center>研究方向: 强化学习、信息论、智能通信、智能系统</center> 
-
-![center-aligned-image](/images/banner.png){: .align-center}
-
 
 ### <center>主要研究工具 Highlighted Methodologies:</center> 
 > - 强化学习 Reinforcement Learning
