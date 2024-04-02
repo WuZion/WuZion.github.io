@@ -1,6 +1,6 @@
-- Dr. Zi-Yang Wu
+- Zi-Yang Wu, Ph.D.
 - Distinguished Associate Researcher at Northeastern University, China.
-- 吴子扬
+- 吴子扬，工学博士
 - 东北大学特聘副研究员，硕士生导师
 
 ### <center>研究方向: 强化学习、信息论、智能通信、智能系统</center> 
